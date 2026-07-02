@@ -1,0 +1,8 @@
+{
+  "name": "Midnight Blooms",
+  "description": "An elegant pure black website that reveals a stunning collection of blue and white flowers with a smooth transition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
